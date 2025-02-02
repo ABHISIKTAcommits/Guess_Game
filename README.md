@@ -18,3 +18,7 @@ A simple interactive game where the player tries to guess a randomly generated n
 1. The game selects a random number within a certain range (e.g., 1-100).  
 2. The player enters guesses, submits it each time, and the game provides hints.  
 3. The game continues until the player guesses correctly.  
+
+
+##Let's play now..
+Here's the preview https://abhisiktacommits.github.io/Guess_Game/
