@@ -20,5 +20,5 @@ A simple interactive game where the player tries to guess a randomly generated n
 3. The game continues until the player guesses correctly.  
 
 
-##Let's play now..
+## Let's play now..
 Here's the preview https://abhisiktacommits.github.io/Guess_Game/
